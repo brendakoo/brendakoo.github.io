@@ -1,5 +1,4 @@
-## Portfolio
-
+## Projects
 ---
 
 ### Category Name 1 
