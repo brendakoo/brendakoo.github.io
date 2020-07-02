@@ -15,7 +15,7 @@
 
 ### Statistical Modelling
 
-[Project 2 Title] (http://example.com/)
+[Project 2 Title](/sample_pag)
 
 ---
 
@@ -23,6 +23,7 @@
 [Webscrapping with BeautifulSoup](http://example.com/)
 
 [Project Example](/sample_page)
+
 ---
 
 
