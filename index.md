@@ -15,7 +15,7 @@
 
 ### Statistical Modelling
 
-[Logistic Regression with credit data](/sample_pag)
+[Logistic Regression with credit data](/sample_page)
 
 ---
 
