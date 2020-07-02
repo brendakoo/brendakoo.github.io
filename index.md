@@ -15,7 +15,7 @@
 
 ### Statistical Modelling
 
-[Project 2 Title](/sample_pag)
+[Logistic Regression with credit data](/sample_pag)
 
 ---
 
