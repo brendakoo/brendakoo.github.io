@@ -3,7 +3,8 @@
 
 ### Visualisation 
 
-[Project 1 Title](/sample_page)
+[Winter is the least faourite season](/sample_page)
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes"></iframe>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -13,16 +14,13 @@
 ---
 
 ### Statistical Modelling
----
+
 [Classification with Logistic Regression](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
 
-
-### Category Name 2
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Data Collection and Preparation
+- [Webscrapping with BeautifulSoup](http://example.com/)
 
 ---
 
