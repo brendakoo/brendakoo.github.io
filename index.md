@@ -15,13 +15,14 @@
 
 ### Statistical Modelling
 
-[Project 2 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 Title] (http://example.com/)
+
 ---
 
 ### Data Collection and Preparation
-- [Webscrapping with BeautifulSoup](http://example.com/)
-- [Project Example](/sample_page)
+[Webscrapping with BeautifulSoup](http://example.com/)
+
+[Project Example](/sample_page)
 ---
 
 
