@@ -5,7 +5,7 @@
 
 [Winter is the least favourite season](https://public.tableau.com/profile/brenda.koo#!/vizhome/MM2019W36DifferentAgeGrouphasitsfavouriteSeason/Dashboard1?publish=yes)
 
-<iframe seamless frameborder src="https://public.tableau.com/views/MM2019W36DifferentAgeGrouphasitsfavouriteSeason/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no"  width="90%" height="500"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/MM2019W36DifferentAgeGrouphasitsfavouriteSeason/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no"  width = '650' height = '450' scrolling='yes'></iframe>
 
 <img src="images/Tableau Public Winter is the least fav season.PNG?raw=true" width = 500' height = '442'/>
 
