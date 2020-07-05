@@ -8,7 +8,11 @@
 
 [Winter is the least favourite season](/visuals_seasons)
 
-[Phone Attachment & Distraction]()
+<img src="images/2019W36_seasons.PNG?raw=true" width = '330' height = '280'/>
+
+[Phone Attachment & Distraction](https://public.tableau.com/views/MM2019W34CellphoneAttachmentandDistraction/Dashboard1?:language=en-GB&:display_count=y&:origin=viz_share_link)
+
+<img src="images/2019W34_cellphone.PNG?raw=true" width = '330' height = '350'/>
 
 ---
 
@@ -18,15 +22,12 @@
 
 ---
 
-### Data Collection and Preparation
+### Data Collection 
 [Webscrapping with BeautifulSoup](http://example.com/)
 
-[Project Example](/sample_page)
 
 ---
 
 
 
-
----
 
