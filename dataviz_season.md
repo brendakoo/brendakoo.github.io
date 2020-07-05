@@ -4,7 +4,7 @@
 **Description:** Makeover Monday Project 
 
 ### 1. Source Data Viz
-
+<img src="images/2019W36_original.PNG?raw=true" width = "400" height = "300"/>
 
 
 Things that I like
