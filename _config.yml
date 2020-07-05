@@ -1,11 +1,11 @@
 title: Brenda Koo # your name (or website title) here
 logo: "/images/lightbulb_round.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
+  A business/data analyst who likes exploring data visualisation and  
+  
   <br><br>
   <a href="www.linkedin.com/in/brenda-koo-shi-ting/">View My LinkedIn Profile</a> 
+  <a href="https://public.tableau.com/profile/brenda.koo#!/">View My Tableau Public Profile</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
