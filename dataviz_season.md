@@ -15,6 +15,6 @@ Things that I will like to work on
 - Use of colour to bringing focus to a specific point instead of differentiating the age groups.
 
 ### 2. My DataViz
-<iframe seamless frameborder="0" src="https://https://public.tableau.com/views/MM2019W36DifferentAgeGrouphasitsfavouriteSeason/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no"  width = '650' height = '500' scrolling='yes'></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/MM2019W36DifferentAgeGrouphasitsfavouriteSeason/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no"  width = '650' height = '500' scrolling='yes'></iframe>
 
 
