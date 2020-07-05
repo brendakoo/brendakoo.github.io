@@ -4,7 +4,7 @@
 ### Data Visualisation 
 [Is it time to treat Sugar like smoking?](https://public.tableau.com/views/MM2020W3Isittimetotreatsugarlikesmoking/Dashboard1?:language=en-GB&:display_count=y&:origin=viz_share_link)
 
-<img src="images/2020W3_sugar_resized.png?raw=true" width = '400' height = '300'/>
+<img src="images/2020W3_sugar.PNG?raw=true" width = '330' height = '250'/>
 
 [Winter is the least favourite season](/visuals_seasons)
 
