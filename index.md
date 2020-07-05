@@ -6,7 +6,7 @@
 
 <img src="images/2020W3_sugar_resized.png?raw=true" width = '400' height = '300'/>
 
-[Winter is the least favourite season](/visual_season)
+[Winter is the least favourite season](/visuals_seasons)
 
 [Phone Attachment & Distraction]()
 
