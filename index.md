@@ -23,7 +23,7 @@
 ---
 
 ### Data Collection 
-[Webscrapping with BeautifulSoup](http://example.com/)
+[Webscrapping with BeautifulSoup](/code_webscrap)
 
 
 ---
