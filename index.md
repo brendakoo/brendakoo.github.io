@@ -18,7 +18,7 @@
 
 ### Statistical Modelling
 
-[Logistic Regression with credit data](/sample_page)
+[Logistic Regression with credit data](https://rpubs.com/brendakoo/logreg_credit)
 
 ---
 
