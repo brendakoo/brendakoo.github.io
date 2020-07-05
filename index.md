@@ -3,12 +3,14 @@
 
 ### Data Visualisation 
 [Is it time to treat Sugar like smoking?](https://public.tableau.com/views/MM2020W3Isittimetotreatsugarlikesmoking/Dashboard1?:language=en-GB&:display_count=y&:origin=viz_share_link)
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/MM2020W3Isittimetotreatsugarlikesmoking/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no"  width = '90%' height = '500' scrolling='no'></iframe>
+
+<img src="images/2020W3_sugar_resized.PNG?raw=true" width = '650' height = '500'/>
 
 ---
 [Winter is the least favourite season](https://public.tableau.com/profile/brenda.koo#!/vizhome/MM2019W36DifferentAgeGrouphasitsfavouriteSeason/Dashboard1?publish=yes)
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/MM2019W36DifferentAgeGrouphasitsfavouriteSeason/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no"  width = '90%' height = '800' scrolling='yes'></iframe>
+---
+[Phone Attachment & Distraction]
 
 ---
 
