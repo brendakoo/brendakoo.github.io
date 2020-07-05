@@ -6,7 +6,7 @@
 
 <img src="images/2020W3_sugar.PNG?raw=true" width = '330' height = '250'/>
 
-[Winter is the least favourite season](/visuals_seasons)
+[Winter is the least favourite season](/dataviz_season)
 
 <img src="images/2019W36_seasons.PNG?raw=true" width = '330' height = '280'/>
 
