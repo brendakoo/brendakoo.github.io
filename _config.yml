@@ -5,6 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <br><br>
   <a href="www.linkedin.com/in/brenda-koo-shi-ting/">View My LinkedIn Profile</a> 
+  <br><br>
   <a href="https://public.tableau.com/profile/brenda.koo#!/">View My Tableau Public Profile</a>
   
 theme: jekyll-theme-minimal
