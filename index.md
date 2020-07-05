@@ -1,4 +1,4 @@
-## Projects
+## My Projects
 ---
 
 ### Data Visualisation 
